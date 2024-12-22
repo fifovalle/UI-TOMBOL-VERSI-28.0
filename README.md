@@ -5,7 +5,7 @@ Jelajahi karya terbaru dan keterampilan saya dalam dunia pengembangan perangkat 
 ### 🚧 Status Proyek
 
 - **Status:** Selesai
-- **Tanggal Rilis Diharapkan:** November 2024
+- **Tanggal Rilis Diharapkan:** Desember 2024
 
 ### 🚀 Fitur Utama
 
